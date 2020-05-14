@@ -9,9 +9,7 @@ Android Studio App
 
 
 ### FeedBack Activity
-<img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/feedback_activity.jpg" width="350">
-<img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/mail_activity.jpg" width="350">
-
+<img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/feedback_activity.jpg" width="350"> ,<img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/mail_activity.jpg" width="350">
 
 ## Author
 
