@@ -6,11 +6,13 @@ Android Studio App
 
 ### Main Activity
 <img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/main_activity.jpg" width="350">
-![Order Activity](https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/order_activity.jpg)
+<img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/order_activity.jpg" width="350">
+
 
 ### FeedBack Activity
-![FeedBack Activity](https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/feedback_activity.jpg)
-![MAil Activity](https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/mail_activity.jpg)
+<img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/feedback_activity.jpg" width="350">
+<img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/mail_activity.jpg" width="350">
+
 
 ## Author
 
