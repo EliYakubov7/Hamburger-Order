@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Hamburger Order</string>
+    <string name="hamburger_order">Eliyahu\'s Burgers</string>
+    <string name="image_hamburger">ImageHamburger</string>
+
+    <string name="size_of_hamburger">Select Size</string>
+    <string name="choose_toppings">Select Toppings</string>
+
+
+    <string name="fried_egg">Fried Egg - 2$</string>
+    <string name="fried_onion">Fried Onion - 2$</string>
+    <string name="chili_pineapple">Chili Pineapple - 2$</string>
+
+
+    <string name="big_hamburger">330 Gr - 20$</string>
+    <string name="medium_hamburger">220 Gr - 17$</string>
+    <string name="small_hamburger">160 Gr - 14$</string>
+
+
+    <string name="total_price">Total Price</string>
+    <string name="delivery_note">"Your delivery is on it's way"</string>
+    <string name="yes">Yes</string>
+    <string name="deliver_required">Delivery Required ?</string>
+
+    <string name="Leave_FeedBack">Leave FeedBack</string>
+    <string name="total_price2">Total Price :</string>
+    <string name="reset">Reset</string>
+    <string name="Instruction_feedback">"Click on any emoji and drag it\n  to choose your satisfaction "</string>
+    <string name="question">Will you order from us again ?</string>
+    <string name="how_many_hamburgers">How many ?</string>
+    <string name="quantity">Quantity :</string>
+    <string name="report">Send Email</string>
+
+    <string-array name="Options">
+        <item>Choose Answer</item>
+       <item>Yes</item>
+       <item>No</item>
+   </string-array>
+    <string name="note">Note : You must choose emoji and answer to question before you will send email</string>
+
+
+</resources>

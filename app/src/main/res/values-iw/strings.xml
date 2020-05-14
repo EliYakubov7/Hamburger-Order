@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הזמנת המבורגר</string>
+    <string name="yes">כן</string>
+    <string name="total_price2">מחיר כולל:</string>
+    <string name="total_price">מחיר כולל</string>
+    <string name="size_of_hamburger">בחר גודל</string>
+    <string name="reset">איפוס</string>
+    <string name="quantity">כמות:</string>
+    <string name="question">האם תזמין מאיתנו שוב ?</string>
+    <string name="Leave_FeedBack">השאר פידבק</string>
+    <string name="Instruction_feedback">"לחצ/י על אימוג'י מסוים וגרור אותו\nעל מנת לבחור את שביעות רצונך"</string>
+    <string name="choose_toppings">בחר תוספות</string>
+    <string name="deliver_required">"האם דרוש משלוח ? "</string>
+    <string name="delivery_note">המשלוח יצא לדרך</string>
+    <string name="image_hamburger">תמונת המבורגר</string>
+    <string name="how_many_hamburgers">כמה ?</string>
+    <string name="hamburger_order">בורגרים אליהו</string>
+    <string name="medium_hamburger">220 גרם - ₪59</string>
+    <string name="fried_onion">בצל מטוגן -     ₪7</string>
+    <string name="fried_egg">ביצת עין -     ₪7</string>
+    <string name="chili_pineapple">אננס צ\'ילי -   ₪7</string>
+    <string name="small_hamburger">160 גרם - ₪48</string>
+    <string name="big_hamburger">330 גרם - ₪69</string>
+    <string name="report">שלח אימייל</string>
+
+
+    <string-array name="Options">
+        <item>בחר תשובה</item>
+        <item>כן</item>
+        <item>לא</item>
+    </string-array>
+    <string name="note">הערה : את/ה חייב לבחור אימוג\\\'י ותשובה לשאלה לפני שאתה שולח מייל</string>
+</resources>
