@@ -5,7 +5,7 @@ Android Studio App
 
 - This is my first app in Android Studio 
 - The purpose of the application is to order a hamburger 
-- The main application is the use of widgets such as : RadioButton , CheckBox , Spinner , SeekBar 
+- The app uses widgets such as : RadioButton , CheckBox , Spinner , SeekBar 
 - The application supports two languages : English and Hebrew
 
 
